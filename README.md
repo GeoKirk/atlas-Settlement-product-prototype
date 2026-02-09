@@ -4,6 +4,17 @@
 ![Atlas Settlement Dashboard](docs/dashboard_overview.png)
 
 
+## Repository Structure
+
+- /domain – Business entities and financial models
+- /services – Settlement and payout logic
+- /infrastructure – Data ingestion and exports
+- /presentation – Dashboard generation
+- /docs – Product documentation
+- /example_data – Mock fintech portfolio datasets
+
+
+
 ## Overview
 Atlas Settlement is a **prototype internal settlement and payout operations platform** for a fintech lender/factoring business.  
 
@@ -74,3 +85,13 @@ Atlas Settlement centralizes operations in a **dashboard-style workflow**, allow
 
 ## Notes
 This is a **product portfolio prototype** created to demonstrate **fintech operations, risk modeling, and product management thinking** — ideal for PM interviews and portfolio showcases.
+
+
+### Example data
+
+The `example_data/` folder contains anonymised merchant data used to run
+the settlement dashboard locally.
+
+This data is for demonstration purposes only and does not represent
+real merchants or transactions.
+
