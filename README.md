@@ -1,5 +1,9 @@
 # Atlas Settlement – Fintech Operations Product Prototype
 
+## Dashboard Preview
+![Atlas Settlement Dashboard](docs/dashboard_overview.png)
+
+
 ## Overview
 Atlas Settlement is a **prototype internal settlement and payout operations platform** for a fintech lender/factoring business.  
 
