@@ -30,7 +30,7 @@ It demonstrates real operational workflows for fintech backoffice teams:
 - **Merchant payout orchestration**  
 - **Rolling reserve calculation**  
 - **Credit limit monitoring**  
-- **Portfolio repayment projection**  
+- **Portfolio repayment**  
 - **Operational dashboards**  
 
 This project is a **product-focused prototype**, highlighting fintech domain knowledge, risk awareness, and system-level thinking.
@@ -62,8 +62,8 @@ Atlas Settlement centralizes operations in a **dashboard-style workflow**, allow
 ## Core Features
 - **Client payout workflow**: status tracking & execution simulation  
 - **Risk monitoring**: exposure alerts, credit limit tracking  
-- **Portfolio modeling**: repayment schedule with interest projections  
-- **Client-level drilldowns**: subaccounts for factoring, settlement, rolling reserve, and partner RR  
+- **Portfolio Repayment Schedule**: repayment schedule with interest projections  
+- **Merchant level drilldown (ledger)**: subaccounts for factoring, settlement, rolling reserve, and partner RR  
 - **Operational dashboard**: interactive HTML table prototype  
 
 ---
