@@ -6,13 +6,20 @@
 
 ## Repository Structure
 
-- /domain – Business entities and financial models
-- /services – Settlement and payout logic
-- /infrastructure – Data ingestion and exports
-- /presentation – Dashboard generation
-- /docs – Product documentation
-- /example_data – Mock fintech portfolio datasets
+- `main.py`  
+  End-to-end prototype of the Atlas Settlement dashboard, including:
+  data ingestion, payout calculations, rolling reserve logic, and HTML
+  dashboard generation.
 
+- `example_data/`  
+  Anonymised merchant and receivables data used to run the prototype locally
+  and demonstrate settlement flows.
+
+- `docs/`  
+  Dashboard screenshots
+
+- `requirements.txt`  
+  Python dependencies required to run the prototype.
 
 
 ## Overview
